@@ -1,0 +1,9 @@
+
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <rect width="300" height="100" fill="white"/>
+  <g font-family="Arial, sans-serif" font-weight="bold">
+    <rect x="20" y="25" width="50" height="50" rx="8" fill="#003366"/>
+    <text x="35" y="60" fill="white" font-size="24">&lt;/&gt;</text>
+    <text x="90" y="62" fill="#003366" font-size="36">Brais Dev</text>
+  </g>
+</svg>
